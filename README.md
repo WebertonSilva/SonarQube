@@ -1,2 +1,2 @@
 # SonarQube
-Utilizando SonarQube
+Utilizando uma ferramenta ALM - SonarQube
