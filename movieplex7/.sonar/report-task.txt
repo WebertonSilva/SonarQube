@@ -1,0 +1,5 @@
+projectKey=movieplex7
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/movieplex7
+ceTaskId=AVSC0tkCm6-lOTm-I7Jz
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVSC0tkCm6-lOTm-I7Jz
